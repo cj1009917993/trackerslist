@@ -1,14 +1,15 @@
-# trackerslist
-An updated list of public BitTorrent trackers
-#### Updated: 2019-04-21
+# ngosang/trackerslist
+Updated list of public BitTorrent trackers
+
+#### Updated: 2019-06-20
 *These lists are automatically updated every day:*
 
 * trackers_best (20 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_best.txt
 * trackers_all (80 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt
-* trackers_all_udp (44 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_udp.txt
-* trackers_all_http (28 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_http.txt
-* trackers_all_https (7 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_https.txt
-* trackers_all_ws (1 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_ws.txt
+* trackers_all_udp (42 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_udp.txt
+* trackers_all_http (30 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_http.txt
+* trackers_all_https (8 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_https.txt
+* trackers_all_ws (2 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_ws.txt
 
 Are you having DNS problems? These lists contains the same trackers but with IP addresses instead of domains:
 * trackers_best_ip (20 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_best_ip.txt
@@ -28,7 +29,8 @@ Are you having DNS problems? These lists contains the same trackers but with IP 
 ngosang [@] hotmail [.es]
 
 ##### Donations
-* BTC: [1JMkeuLX9DA8sssZLSeSvSRvS1iVCu2wNT](https://www.blocktrail.com/BTC/address/1JMkeuLX9DA8sssZLSeSvSRvS1iVCu2wNT)
+* [![Beerpay](https://beerpay.io/ngosang/trackerslist/badge.svg?style=flat)](https://beerpay.io/ngosang/trackerslist)
+* BTC: [1JMkeuLX9DA8sssZLSeSvSRvS1iVCu2wNT](https://btc.com/1jmkeulx9da8ssszlsesvsrvs1ivcu2wnt)
 * ETH: [0x50A79a95878dd588A55E909dAc2eA3962D2fA46c](https://etherscan.io/address/0x50A79a95878dd588A55E909dAc2eA3962D2fA46c)
 
 ##### Third-party tools
